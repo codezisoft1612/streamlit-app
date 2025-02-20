@@ -292,7 +292,7 @@ st.markdown(
             opacity: 0.8;
         }
 
-        /* Table Section */
+         /* Table Section */
         .table-responsive {
             border-radius: 8px;
             overflow: hidden;
